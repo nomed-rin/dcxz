@@ -1,0 +1,2 @@
+local request = request or syn.request 
+request({Url = "https://raw.githubusercontent.com/nomed-rin/u/main/di.py"})
