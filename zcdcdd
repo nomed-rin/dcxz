@@ -1,0 +1,3 @@
+local request = request or syn.request 
+local a = request({Url = "https://raw.githubusercontent.com/nomed-rin/u/main/di.py"})
+print(a)
